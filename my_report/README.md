@@ -11,9 +11,11 @@
 
 
 # 1st Deliverable
-
-
-# 2nd Deliverable
+1. (**Video Capture**)
+   - Αρχικά έκανα προσθήκη της library: **Video Library for Processing 3** για να δουλέψει σωστά το παράδειγμα της άσκησης . Μετά έκανα αντιγραφή τον κώδικα του παραδείγματος **16-1** από το βιβλίο **Learning Processing, 2nd Edition** και το έτρεξα στο **Processing** και προσπάθησα να αλλάξω το μέγεθος του παραθύρου που εμφάνιζε την κάμερα οπότε το αποτέλεσμα είναι αυτό: ![image](https://user-images.githubusercontent.com/100446886/197046218-57428a39-8ad8-41d9-bfed-7329d9940677.png)
+   
+2. (**Recorded video**)
+   - Αρχικά ένα βίντεο 10sec από [εδώ](https://www.videezy.com/technology/81-hd-digital-clock-stock-video) για να το χρησιμοποιήσω στην άσκηση , άλλαξα το μέγεθος του παραθύρου ώστε να φαίνεται ολόκληρο το βίντεο.
 
 
 # 3rd Deliverable 
