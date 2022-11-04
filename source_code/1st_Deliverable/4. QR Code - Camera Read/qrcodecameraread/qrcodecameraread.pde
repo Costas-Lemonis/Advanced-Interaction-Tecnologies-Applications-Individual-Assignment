@@ -67,12 +67,16 @@ void keyReleased() {
     savedFrame.copy(video, 0, 0, video.width, video.height, 0, 0, video.width, video.height);
     savedFrame.updatePixels();
     // Decode savedFrame
+    //link("https://github.com/Costas-Lemonis");
+    link(decoder.getDecodedString());
     decoder.decodeImage(savedFrame);
     break;
   case 'f':    // f runs a test on a file
     PImage preservedFrame = loadImage("qrcode.png");
     // Decode file
+    //link("https://github.com/Costas-Lemonis");
     decoder.decodeImage(preservedFrame);
+    link(decoder.getDecodedString());
     break;
   }
 }
