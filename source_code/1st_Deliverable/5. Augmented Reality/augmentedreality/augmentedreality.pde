@@ -41,6 +41,9 @@ void draw()
     return;
   }
   nya.beginTransform(0);
-  image(img,0,0, width, height);
+  fill(0,0,255);
+  translate(80, 80);
+  rotateZ(radians(180));
+  image(img, 0, 0, 125, 125);
   nya.endTransform();
 }
