@@ -22,7 +22,7 @@
 
 4. (**QR Code - Camera Read**)
    - Από την προηγουμένη άσκηση χρησιμοποιηθήκαν τα **Libraries** και το **QR Code**. Μετά έτρεξα το **example** για το **QR Code** , έφτιαξα έναν φάκελο **data** μέσα στον φάκελο που είναι αποθηκευμένος ο κώδικας ![image](https://user-images.githubusercontent.com/100446886/197360104-17f4172c-3e63-4f52-8f97-c4ac08a2906f.png)
- και πρόσθεσα την **φωτογραφία** με το **QR Code**. ![image](https://user-images.githubusercontent.com/100446886/197360022-a06ac671-8d5a-4e90-b023-aacac1406f37.png). Μετά μέσα στα case' και ' case'f' έβαλα ένα link decoder ώστε όταν ο χρήστης πατήσει το 'spacebar' η το 'f' να ανοίγει σε νέα καρτέλα το link από το QR Code που αναγνωρίζει η κάμερα.
+ και πρόσθεσα την **φωτογραφία** με το **QR Code**. ![image](https://user-images.githubusercontent.com/100446886/197360022-a06ac671-8d5a-4e90-b023-aacac1406f37.png). Μετά μέσα στα case' και ' case'f' έβαλα ένα link decoder ώστε όταν ο χρήστης πατήσει το 'spacebar' η το 'f' να ανοίγει σε νέα καρτέλα το link από το QR Code που αναγνωρίζει η κάμερα.  
 
 
 
