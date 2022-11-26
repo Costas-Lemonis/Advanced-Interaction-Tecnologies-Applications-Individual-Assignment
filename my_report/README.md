@@ -27,11 +27,21 @@
 
 
 5. (**Augmented Reality**)
-   - Αρχικά ένα εγκατάσταση το Library **NyARToolkit** από [εδώ](https://github.com/nyatla/NyARToolkit-for-Processing/releases) και συγκεκριμένα το **nyar4psg.zip**. ![image](https://user-images.githubusercontent.com/100446886/197361895-b75cae57-2f96-4e46-8b88-a1bcfefa0c09.png)
-Μετά άνοιξα το example **simpleLite** και πρόσθεσα τον κώδικα για να κάνει import την εικόνα από την προηγουμένη άσκηση (**3. QR Code**) και άλλαξα το μέγεθος και το Position της εικόνας και την έκανα περιστροφή γιατί ήταν ανάποδα.
+   - Soon
 
 
 # 2nd Deliverable
+1. (**Background Removal**)
+   - Soon
+   
+2. (**Motion Detection**)
+   - Soon 
+
+3. (**Background Substraction - Library use**)
+   - Soon
+
+4. (**Object Tracking**)
+   - Soon  
 
 # 3rd Deliverable 
 
