@@ -27,7 +27,7 @@
 
 
 5. (**Augmented Reality**)
-   - Soon
+   - :)
 
 
 # 2nd Deliverable
