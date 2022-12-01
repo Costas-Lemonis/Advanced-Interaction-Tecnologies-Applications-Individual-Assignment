@@ -38,7 +38,8 @@
    - Soon 
 
 3. (**Background Substraction - Library use**)
-   - Soon
+   - Αρχικά έκανα προσθήκη της library: **OpenCV for Processing** για να δουλέψει σωστά το παράδειγμα της άσκησης. ![image](https://user-images.githubusercontent.com/100446886/205073376-2792fd5d-3c42-4aba-a619-e61de81ca008.png) Μετά έκανα αντιγραφή τον κώδικα του παραδείγματος **BackgroundSubstraction** από την library και το έτρεξα στο **Processing**. Μετά έσβησα από το αρχεία τον κώδικα για το πως εμφανίζει το βίντεο στην οθόνη ,έπειτα πρόσθεσα τον κώδικα για να κάνει capture την οθόνη από τα παραδείγματα που υπάρχουν στην library **Learning Processing, 2nd Edition**.
+
 
 4. (**Object Tracking**)
    - Soon  
