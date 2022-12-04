@@ -16,7 +16,7 @@ Capture video;
 // Saved background
 PImage backgroundImage;
 
-Movie backgroundReplace;
+Movie tainia;
 
 // How different must a pixel be to be a foreground pixel
 float threshold = 20;
@@ -29,8 +29,8 @@ void setup() {
 
   // Create an empty image the same size as the video
   backgroundImage = createImage(video.width, video.height, RGB);
-  backgroundReplace = new Movie(this,"video_horror.avi");
-  backgroundReplace.loop();
+  tainia = new Movie(this,"video_horror.mp4");
+  tainia.loop();
 }
 
 // New frame available from camera
@@ -38,8 +38,8 @@ void captureEvent(Capture video) {
   video.read();
 }
 
-void movieEvent(Movie backgroundReplace) {
-  backgroundReplace.read();
+void movieEvent(Movie m) {
+  tainia.read();
 }
 
 void draw() {
@@ -76,7 +76,7 @@ void draw() {
       } else {
         // If not, display the beach scene
        // image(backgroundReplace, 0, 0, width, height);
-        pixels[loc] = backgroundReplace.pixels[loc];
+        pixels[loc] = tainia.pixels[loc];
       }
     }
   }
