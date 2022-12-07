@@ -32,7 +32,7 @@
 
 # 2nd Deliverable
 1. (**Background Removal**)
-   - Soon
+   - Αρχικά έκανα αντιγραφή τον κώδικα του παραδείγματος **16-12** από το βιβλίο **Learning Processing, 2nd Edition** και το έτρεξα στο **Processing**. Μετά βρήκα ένα βίντεο 10sec από [εδώ](https://www.videvo.net/video/mystical-horror-background-with-the-house-and-moon-3/605990/) για να το χρησιμοποιήσω στην άσκηση και έφτιαξα έναν φάκελο **data** μέσα στον φάκελο που είναι αποθηκευμένος ο κώδικας και πρόσθεσα το βίντεο , πρόσθεσα τον κώδικα από το Παραδοτέο 1 – Recorded video για να εμφανίζεται στην άσκηση , έπειτα άλλαξα τον κώδικα στην **if (diff > threshold )** και συγκεκριμένα στην **else** έτσι ώστε αντί να εμφανίζει με πράσινο χρώμα στο background να εμφανίζει το βίντεο οπότε έγινε έτσι η **else**  `pixels[loc] = tainia.pixels[loc]`.
    
 2. (**Motion Detection**)
    - Soon 
