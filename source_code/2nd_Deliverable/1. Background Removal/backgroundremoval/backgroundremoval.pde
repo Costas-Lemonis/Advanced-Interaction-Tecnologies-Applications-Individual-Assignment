@@ -24,7 +24,7 @@ float threshold = 20;
 void setup() {
   size(1280, 720);
   //background(0);
-  video = new Capture(this, width, height, 30);
+  video = new Capture(this, width, height,"pipeline:autovideosrc");
   video.start();
 
   // Create an empty image the same size as the video
