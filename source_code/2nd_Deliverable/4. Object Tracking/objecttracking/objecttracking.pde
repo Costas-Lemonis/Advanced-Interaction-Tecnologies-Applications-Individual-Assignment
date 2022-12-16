@@ -16,7 +16,7 @@ Fidi fidi;
 
 void setup() {
   size(320, 240);
-  video = new Capture(this, width, height);
+  video = new Capture(this, width, height,"pipeline:autovideosrc");
   video.start();
   // Start off tracking for red
   trackColor = color(255, 0, 0);
