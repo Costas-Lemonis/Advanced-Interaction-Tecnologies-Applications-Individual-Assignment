@@ -48,21 +48,26 @@
 
 
 # Bonus 
-Αφού προμηθευτήκαμε το Kinect V1 και εγκαταστήσαμε τα libraries απο το ....λινκ
+Αφού προμηθευτήκαμε το Kinect V1 και εγκαταστήσαμε τα libraries από τα link που είχαμε στην εκφώνηση των ασκησεων.
 1. (**Kinect – Nearest Point Tracking**)
-   - Πήραμε το σκελετό απο το example 9-8 και βάλαμε το snake απο το 2o παραδοτέο
-   
+   - Πήραμε το σκελετό από το example 9-8 και βάλαμε την class Snake από το 2o παραδοτέο και την προσαρμόσαμε ώστε να δουλεύει με την άσκηση και αλλάξαμε το χρώμα του Snake.
+   ![image](https://user-images.githubusercontent.com/100446886/212174082-dc65b738-e5c2-4836-a402-6ab450a68a7e.png)
+
 2. (**Kinect – Background Removal**)
-   - Πήραμε το σκελετό απο το Remove_Background_RGB και αντικαταστήσαμε το μαύρο background με ένα βίντεο.
-   Απάντηση:Η διαφορά αφαίρεσης υποβάθρου ανάμεσα στο 2ο παραδοτέο και στην Kinect είναι οτι στο 2ο παραδοτέο η εικόνα του background ηταν μουντή και έπρεπε να είσαι εκτός κάμερας στην αρχή για να μην σε περάσει για το background ενώ στο Kinect δεν υπάρχει τέτοιο πρόβλημα παρα μονο οτι χρειαζόταν αλλο πρόγραμμα 
+   - Πήραμε το σκελετό από το Remove_Background_RGB και αντικαταστήσαμε το μαύρο background με ένα βίντεο όπως είχαμε κάνει στο 2ο παραδοτέο.
+  Στο 2ο παραδοτέο το background removal που κάναμε δεν δούλευε καλά γιατί έπρεπε να είσαι εκτός οθόνης για μην σε εντοπίσει και σε αφαιρέσει , ενώ στην έτοιμη βιβλιοθήκη (Kinect) δεν υπάρχει αυτό το πρόβλημα και λειτουργεί καλυτέρα.
+![image](https://user-images.githubusercontent.com/100446886/212173982-5cada63b-fb48-4d72-a1a0-67a41582d4f6.png)
 
 3. (**Kinect – Right-Hand Tracking**)
-   - Για το τελευταίο σκέλος της άσκησης πήραμε το παράδειγμα απο το αρθρο και το συνδιάσαμε με το example 9-8 
+   - Για το τελευταίο σκέλος της άσκησης πήραμε το παράδειγμα από το άρθρο και το συνδυάσαμε με το example 9-8 που είναι το Snake Tracking.
+![image](https://user-images.githubusercontent.com/100446886/212173702-a318d793-5b7d-4eef-a84e-979650679c05.png)![image](https://user-images.githubusercontent.com/100446886/212173789-d79d75b7-e962-47ff-a9ee-0574682f90ed.png)
+
+
 
 # Conclusions
 
 
 # Sources
 - **Deliverable 1** | [QR Code Generator](https://www.qrcode-monkey.com/) | [10sec video](https://www.videvo.net/video/mystical-horror-background-with-the-house-and-moon-3/605990/) | 
-- **Deliverable 2** | [10sec video](https://www.videvo.net/video/mystical-horror-background-with-the-house-and-moon-3/605990/) | [OpenCV for Processing]([https://www.videvo.net/video/mystical-horror-background-with-the-house-and-moon-3/605990/](https://github.com/atduskgreg/opencv-processing)) | 
-- **Deliverable 3** | 
+- **Deliverable 2** | [10sec video](https://www.videvo.net/video/mystical-horror-background-with-the-house-and-moon-3/605990/) | [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing)) | 
+- **Deliverable 3** | [Εκφώνηση άσκησης](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/4)
