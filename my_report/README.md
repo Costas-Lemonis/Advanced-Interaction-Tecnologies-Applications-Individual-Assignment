@@ -6,7 +6,8 @@
 ### Advanced Interaction Tecnologies & Applications Github Personal Repository: https://github.com/Costas-Lemonis/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment
 
 # Introduction
-
+### Kinect Team :[Chatzilyras Michalis](https://github.com/Chatzilyras-Michalis) | [Giannis Kokkinis](https://github.com/Giannis-Kokkinis) | [Costas Lemonis](https://github.com/Costas-Lemonis)
+### Kinect Version : 1
 # Summary
 
 
@@ -70,4 +71,4 @@
 # Sources
 - **Deliverable 1** | [QR Code Generator](https://www.qrcode-monkey.com/) | [10sec video](https://www.videvo.net/video/mystical-horror-background-with-the-house-and-moon-3/605990/) | 
 - **Deliverable 2** | [10sec video](https://www.videvo.net/video/mystical-horror-background-with-the-house-and-moon-3/605990/) | [OpenCV for Processing](https://github.com/atduskgreg/opencv-processing)) | 
-- **Deliverable 3** | [Εκφώνηση άσκησης](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/4)
+- **Deliverable 3** | [Εκφώνηση άσκησης](https://github.com/merkourisa/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment/issues/4) |
