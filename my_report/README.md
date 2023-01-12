@@ -6,7 +6,7 @@
 ### Advanced Interaction Tecnologies & Applications Github Personal Repository: https://github.com/Costas-Lemonis/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment
 
 # Introduction
-### Kinect Team :[Chatzilyras Michalis](https://github.com/Chatzilyras-Michalis) | [Giannis Kokkinis](https://github.com/Giannis-Kokkinis) | [Costas Lemonis](https://github.com/Costas-Lemonis)
+### Kinect Team : [Chatzilyras Michalis](https://github.com/Chatzilyras-Michalis) | [Giannis Kokkinis](https://github.com/Giannis-Kokkinis) | [Costas Lemonis](https://github.com/Costas-Lemonis)
 ### Kinect Version : 1
 # Summary
 
