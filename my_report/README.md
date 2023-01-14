@@ -50,7 +50,7 @@
 ![image](https://user-images.githubusercontent.com/100446886/212496921-df236ae3-a1ef-4616-ba73-34c19cdc7190.png)   
 Έπειτα έκανα μια if για το object 1 που θα κάνει zoom in – zoom out την εικόνα ανάλογα με το RotationSpeed που θα έχει το object 1 σύμφωνα με τον κώδικα από [εδώ](https://forum.processing.org/two/discussion/2151/zoom-in-and-out.html).
 ![image](https://user-images.githubusercontent.com/100446886/212496953-7949fef0-238f-4c62-b2f0-23d8f02a5f7c.png)
-Τέλος έκανα μια if για το object 4 και για το object 3 για να προσθέσω τα filters BLUR και THRESHOLD αντίστοιχα και θα αλλάζουν ανάλογα με το RotationSpeed του object που έχει το κάθε object.
+Τέλος έκανα μια if για το object 4 και για το object 3 για να προσθέσω τα [filters](https://processing.org/reference/filter_.html) BLUR και THRESHOLD αντίστοιχα και θα αλλάζουν ανάλογα με το RotationSpeed του object που έχει το κάθε object.
 
 # Bonus 
 # Bonus 1
