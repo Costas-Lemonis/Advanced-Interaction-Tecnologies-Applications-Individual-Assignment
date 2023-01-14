@@ -53,7 +53,7 @@
 Τέλος έκανα μια if για το object 4 και για το object 3 για να προσθέσω τα [filters](https://processing.org/reference/filter_.html) BLUR και THRESHOLD αντίστοιχα και θα αλλάζουν ανάλογα με το RotationSpeed του object που έχει το κάθε object.
 
 # Bonus 
-# Bonus 1
+   - Bonus 1
 Αφού προμηθευτήκαμε το Kinect V1 και εγκαταστήσαμε τα libraries από τα link που είχαμε στην εκφώνηση των ασκησεων.
 1. (**Kinect – Nearest Point Tracking**)
    - Πήραμε το σκελετό από το example 9-8 και βάλαμε την class Snake από το 2o παραδοτέο και την προσαρμόσαμε ώστε να δουλεύει με την άσκηση και αλλάξαμε το χρώμα του Snake.
@@ -68,7 +68,7 @@
    - Για το τελευταίο σκέλος της άσκησης πήραμε το παράδειγμα από το άρθρο και το συνδυάσαμε με το example 9-8 που είναι το Snake Tracking.
 ![image](https://user-images.githubusercontent.com/100446886/212173702-a318d793-5b7d-4eef-a84e-979650679c05.png)![image](https://user-images.githubusercontent.com/100446886/212173789-d79d75b7-e962-47ff-a9ee-0574682f90ed.png)
 
-# Bonus 2
+   - Bonus 2
 
 
 # Conclusions
