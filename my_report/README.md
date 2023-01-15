@@ -52,7 +52,7 @@
 ![image](https://user-images.githubusercontent.com/100446886/212496953-7949fef0-238f-4c62-b2f0-23d8f02a5f7c.png)
 Τέλος έκανα μια if για το object 4 και για το object 3 για να προσθέσω τα [filters](https://processing.org/reference/filter_.html) BLUR και THRESHOLD αντίστοιχα και θα αλλάζουν ανάλογα με το RotationSpeed του object που έχει το κάθε object.
 ![image](https://user-images.githubusercontent.com/100446886/212558885-dac28a76-4dfb-4c26-a6d1-60e71eacbf3e.png)
-![image](https://user-images.githubusercontent.com/100446886/212558892-4b442260-3fc1-46f1-800c-3e32fcfc59ac.png)
+![image](https://user-images.githubusercontent.com/100446886/212559138-694b6acc-3491-456a-86a7-515e71732330.png)
 
 
 # Bonus 
@@ -70,7 +70,8 @@
 3. (**Kinect – Right-Hand Tracking**)
    - Για το τελευταίο σκέλος της άσκησης πήραμε το παράδειγμα από το άρθρο και το συνδυάσαμε με το example 9-8 που είναι το Snake Tracking.
 ![image](https://user-images.githubusercontent.com/100446886/212173702-a318d793-5b7d-4eef-a84e-979650679c05.png)
-![image](https://user-images.githubusercontent.com/100446886/212559097-b9b6c8f9-f21c-4e3b-b4e2-7aa49106b169.png)
+![image](https://user-images.githubusercontent.com/100446886/212559208-618b0499-e816-474f-b818-99d04bc79a01.png)
+
 
 
    - Bonus 2
