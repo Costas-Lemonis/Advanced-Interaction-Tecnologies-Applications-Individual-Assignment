@@ -69,7 +69,9 @@
 
 3. (**Kinect – Right-Hand Tracking**)
    - Για το τελευταίο σκέλος της άσκησης πήραμε το παράδειγμα από το άρθρο και το συνδυάσαμε με το example 9-8 που είναι το Snake Tracking.
-![image](https://user-images.githubusercontent.com/100446886/212173702-a318d793-5b7d-4eef-a84e-979650679c05.png)![image](https://user-images.githubusercontent.com/100446886/212173789-d79d75b7-e962-47ff-a9ee-0574682f90ed.png)
+![image](https://user-images.githubusercontent.com/100446886/212173702-a318d793-5b7d-4eef-a84e-979650679c05.png)
+![image](https://user-images.githubusercontent.com/100446886/212559097-b9b6c8f9-f21c-4e3b-b4e2-7aa49106b169.png)
+
 
    - Bonus 2
 
