@@ -53,6 +53,7 @@
 Τέλος έκανα μια if για το object 4 και για το object 3 για να προσθέσω τα [filters](https://processing.org/reference/filter_.html) BLUR και THRESHOLD αντίστοιχα και θα αλλάζουν ανάλογα με το RotationSpeed του object που έχει το κάθε object.
 ![image](https://user-images.githubusercontent.com/100446886/212558885-dac28a76-4dfb-4c26-a6d1-60e71eacbf3e.png)
 ![image](https://user-images.githubusercontent.com/100446886/212559138-694b6acc-3491-456a-86a7-515e71732330.png)
+`Ερώτηση` **Τον προσομοιωτή θα τον χρησιμοποιούσα στην αρχή του όταν δηλαδή θα δοκίμαζα να να δω αν δουλεύαν τα objects έτσι ώστε να κάνω τις κατάλληλες αλλαγές για να συνεχίσω το την κατασκευή του προγράμματος. Τέλος την κάμερα θα την χρησιμοποιούσα στο τέλος ώστε να δοκιμάσω το πρόγραμμα σε σενάριο χρήσης.** 
 
 
 # Bonus 
@@ -72,9 +73,11 @@
 ![image](https://user-images.githubusercontent.com/100446886/212173702-a318d793-5b7d-4eef-a84e-979650679c05.png)
 ![image](https://user-images.githubusercontent.com/100446886/212559208-618b0499-e816-474f-b818-99d04bc79a01.png)
 
-
-
    - Bonus 2
+Για το 2ο  bonus χρησιμοποιήσαμε το 2ο παράδειγμα chPC_ex10_multi_hotpoint(link).
+Αφού το τρέξαμε το compiler έδειξε μαυρόασπρο φόντο με 2 κύβους. προσθέσαμε άλλους τέσσερις κύβους και έπειτα βάλαμε τις νότες. Μετά αλλάξαμε τον κώδικα για την κάμερα του Kinect v1 έτσι ώστε να εμφανίζει χρώμα από μαυρόασπρο πιο συγκεκριμένα από depth camera σε rgb camera.Για να ενεργοποιήσαμε την rgb camera μας βοήθησε το background removal από το προηγούμενο παραδοτέο(bonus1). Επίσης αυξήσαμε το πάχος των σκελετών των κουτιών (stroke) για να φαίνεται πιο έντονα. Μετα από τις παρουσιάσεις και τα σχόλια που ακούσαμε προσθέσαμε κώδικα για το fov. Τέλος προσπαθήσαμε να βάλουμε left-right hand tracking αλλά έπρεπε να είναι ενεργοποιημένες και η rgb και η depth κάμερες.
+https://user-images.githubusercontent.com/100446886/212562450-4ae1bc09-20c7-423c-ac14-a433f4e80a1f.mp4
+
 
 
 # Conclusions
